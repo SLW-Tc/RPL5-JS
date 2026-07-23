@@ -1,0 +1,1 @@
+console.log("Hai, nama saya adalah XRPL5 yaitu Lumen ");
